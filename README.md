@@ -91,14 +91,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrx-data&show_icons=true&theme=default&hide_border=true&bg_color=FFFDF5&title_color=1A1A1A&text_color=555&icon_color=F5A623" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrx-data&layout=compact&hide_border=true&bg_color=FFFDF5&title_color=1A1A1A&text_color=555" height="165" />
-</div>
-
----
 
 ### ✍️ 我写的东西
 
